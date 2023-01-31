@@ -1,4 +1,4 @@
-import * as THREE from 'three'
+import * as THREE from "https://cdn.skypack.dev/three@0.149.0"
 
 var camera, scene, renderer, stats;
 var geometry, group;
