@@ -2,8 +2,7 @@
   "dependencies": {
     "three": "0.83.0"
   }
-}
+  
+    "type": "module",
 
-{
-  "type": "module",
 }
